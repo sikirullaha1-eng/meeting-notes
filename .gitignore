@@ -1,0 +1,12 @@
+# Private data — never publish
+recordings/
+notes/
+*.caf
+*.wav
+*.m4a
+
+# Build artifacts
+.build/
+*.app/
+meet
+.DS_Store
